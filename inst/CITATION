@@ -1,0 +1,13 @@
+citHeader("To cite SPIA package in publications use:")
+
+citEntry(entry="Article",
+  author = "Adi L. Tarca and  Sorin Draghici and Purvesh Khatri and Sonia S Hassan and Pooja Mittal, and Jung-sun Kim and Chong Jai Kim and Juan Pedro Kusanovic and Roberto Romero",
+  title = "A novel signaling pathway impact analysis",
+  journal = "Bioinformatics",
+  year = "2008",
+  volume = "25",
+  number = "1",
+  pages = "",
+  textVersion = "Adi L. Tarca, Sorin Draghici, Purvesh Khatri, Sonia S Hassan, Pooja Mittal, Jung-sun Kim, Chong Jai Kim, Juan Pedro Kusanovic, Roberto Romero, A novel signaling pathway impact analysis, Bioinformatics, 25(1):75–82, 2008."
+)
+
